@@ -8,6 +8,7 @@
     "type": "git",
     "url": "git@github.com:Southern/node-x509.git"
   },
+  "os": ["!win32"],
   "scripts": {
     "test": "node test/test"
   },
